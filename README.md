@@ -1,5 +1,19 @@
 # Alfred Intro
 
+## 文档生成说明
+
+### 参考地址
+[i5ting tocmd](https://github.com/i5ting/tocmd.npm)
+
+### 说明说明
+```
+npm install -g i5ting_toc
+i5ting_toc -f sample.md -o
+```
+
+![](http://7xq8sa.com1.z0.glb.clouddn.com/1475132799.png )
+
+
 ## Main Functions
 
 ### Search and Browse
