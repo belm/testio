@@ -5,7 +5,7 @@
 ### 参考地址
 [i5ting tocmd](https://github.com/i5ting/tocmd.npm)
 
-### 说明说明
+### 使用说明
 ```
 npm install -g i5ting_toc
 i5ting_toc -f sample.md -o
