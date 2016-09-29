@@ -1,15 +1,55 @@
-# testio
-test github io
+# Alfred Intro
 
-## 标题1
+## Main Functions
 
-### 1. 学习
-### 2. 吃饭
-### 3. 睡觉
+### Search and Browse
 
-## 标题2
+Launch applications and find files on your Mac or on the web. Alfred learns how you use your Mac and prioritises results.
+Save countless hours by using hotkeys, keywords and customising how you want to search your Mac and activity history.
+Jump in and browse, preview files and take action on them without lifting your fingers off the keyboard.
 
-### 1. 测试1
-### 2. 测试2
+### Type Less, Say More
 
-## 标题3
+With Alfred's Clipboard History and Snippets features, there's no need to type the same URLs or responses over and over.
+Use the Clipboard History to locate any text, image or file you copied earlier and paste it again.
+Create your own snippets and type a short abbreviation to auto-expand them into a full text snippet, saving yourself hours of typing in the long run!
+
+### Extend and Automate
+
+With Alfred's Powerpack, use immensely powerful workflows to perform tasks more efficiently and cut down on repetitive manual tasks.
+Link hotkeys, keywords and actions together to create your own workflows; There's no need to write a single line of code to create a workflow. Import workflows from the thousands our community of creators have shared.
+
+### Control Your Music
+
+You're the boss. Boost your productivity by controlling your Mac using Alfred's deep integration with OS X. Swiftly take action on files and contacts, control your music player and dispatch System commands.
+Add some fun to your day; Turn your iPhone or iPad into a command centre for your Mac with Alfred Remote for iOS.
+Alternatively, take a look at the many workflows for other music services like Spotify.
+
+## Productivity at your Fingertips
+
+### find apps & files
+### Search the web
+### Calculate
+### spell & define
+### system commands
+### quick look
+### large type
+### usage status
+### clipboard history
+### snippet expansion
+### workflows
+### hotkeys
+### navigation & actions
+### control itunes
+### recent documents
+### theming
+### email
+### 1password
+### default searches
+### sync settings
+### file buffer
+### shell integration
+### view contacts
+### getting started
+
+
